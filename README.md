@@ -26,5 +26,5 @@
         <img width="300" height="300" alt="3" src="https://user-images.githubusercontent.com/56066721/139046909-78f84d70-3976-44a4-a246-8c4290b11dae.png">
 
 #### The output from the DeadCodeDetection plugin
-* After using the plugin, the detection result will appear in the folder named "DeadCodeDetectionReport" in your java project path like below.
+* After using the plugin, the detection result will appear in the folder named "DeadCodeDetectionReport" in your java project path like below.</br>
         <img width="600" height="100" alt="4" src="https://user-images.githubusercontent.com/56066721/139047543-a420abc1-053f-41f5-b308-0f8f2d9c9bc7.png">
