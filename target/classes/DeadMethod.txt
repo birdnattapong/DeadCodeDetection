@@ -1,0 +1,8 @@
+Total time: 56.024 seconds.
+Method	getMethodTokens	at line: 254	in: DeadMethod.DeadMethodDetector.java
+Method	getMethodInUsed	at line: 258	in: DeadMethod.DeadMethodDetector.java
+Method	getAllSearchPaths	at line: 262	in: DeadMethod.DeadMethodDetector.java
+Method	getSearchCu	at line: 266	in: DeadMethod.DeadMethodDetector.java
+Method	getPath	at line: 13	in: DeadMethod.MethodToken.java
+Method	getMethodCallExp	at line: 20	in: DeadMethod.Util.MethodCallExpCollector.java
+Method	getEndLine	at line: 41	in: DeadMethod.Util.MethodVisitor.java
