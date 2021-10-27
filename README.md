@@ -1,12 +1,12 @@
 ## DeadCodeDetection
 
-#### This tool is a plugin in Elipse IDE that be able to detect 4 types of java dead code.
+#### This tool is a plugin in Eclipse IDE that be able to detect 4 types of java dead code.
 1. Dead class.
 2. Dead interface.
 3. Dead variable.
 4. Dead parameter.
 
-#### In order to use the DeadCodeDetection plugin, you need to install the plugin in Elipse IDE first.
+#### In order to use the DeadCodeDetection plugin, you need to install the plugin in Eclipse IDE first.
 #### You can follow these steps.
 * Download this repository and you will get the folder named "Eclipse-Plugin"</br>
         <img alt="Screenshot 2021-10-27 163828" src="https://user-images.githubusercontent.com/56066721/139043381-50fe953e-40d2-4f82-9dc2-15bb68946516.png" width="500" height="200">
